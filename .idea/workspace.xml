@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b521fc49-f492-41a1-83d7-4d068536525b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AES_encryption.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AES_encryption/main/PasswordManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AES_encryption/resources/configuration.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AES_encryption/resources/secretFile.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AES_encryption/test/DecryptExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AES_encryption/test/EncryptExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/PasswordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PasswordManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +33,11 @@
     <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
