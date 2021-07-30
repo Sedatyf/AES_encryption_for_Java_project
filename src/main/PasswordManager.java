@@ -58,7 +58,7 @@ public class PasswordManager {
         return properties.getProperty("salt");
     }
 
-    
+
     /**
      * Encrypt your password with SHA256 + secret key + salt
      * @param strToEncrypt your password to encrypt
